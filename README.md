@@ -1,6 +1,6 @@
 # ⚽ Agente RAG: Regras do Futebol
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU-USUARIO/rag-regras-futebol/blob/main/rag_regras_futebol.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabriciosribeiro/rag-regras-futebol/blob/main/rag_regras_futebol.ipynb)
 
 Assistente que responde perguntas sobre as **Regras do Jogo** de futebol (IFAB, edição 2023/24, em português) usando **RAG (Retrieval-Augmented Generation)**.
 
